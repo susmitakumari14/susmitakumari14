@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmitakumari14&label=Profile%20views&color=0e75b6&style=flat" alt="susmitakumari14" /> </p>
 
-- 🌱 I’m completed dual degree **Neural Deep learnig**
+- 🌱 I’m completed dual degree **Neural Deep learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/susmitakumari14?tab=repositories](https://github.com/susmitakumari14?tab=repositories)
 
