@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Susmita Kumari</h1>
-<h3 align="center">A passionate Software Engineer developer from India</h3>
+<h1 align="center">Hi 👋, I'm Susmita Kumari ,Pursuing Btech CSE..</h1>
+<h3 align="center">A passionate Software Engineer  Developer..</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmitakumari14&label=Profile%20views&color=0e75b6&style=flat" alt="susmitakumari14" /> </p>
 
-- 🌱 I’m completed dual degree **Neural Deep learning**
+- 🌱 I’m completed dual degree **Neural Network learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/susmitakumari14?tab=repositories](https://github.com/susmitakumari14?tab=repositories)
 
